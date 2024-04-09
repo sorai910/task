@@ -21,8 +21,8 @@ The following **required** functionality is completed:
 
 The following **additional** features are implemented:
 
-- [ ] Tasks can be toggled completed
-- [ ] User can edit tasks by tapping on the task in the feed view
+- [x] Tasks can be toggled completed
+- [x] User can edit tasks by tapping on the task in the feed view
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
