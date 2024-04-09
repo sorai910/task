@@ -1,7 +1,7 @@
 # task
 # Project 7 - *Task*
 
-Submitted by: **Your Name Here**
+Submitted by: **Xiaoran Liu**
 
 **Task** is an app that manages your to-do list.
 
